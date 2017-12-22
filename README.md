@@ -1,2 +1,3 @@
 # hello-world
 First time to use github for code repositories
+I am trying add more info in the Readme file as a Big Data developer, administrotor...
